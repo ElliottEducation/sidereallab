@@ -25,9 +25,11 @@ To install, clone this repository and install the required libraries:
 git clone https://github.com/yourusername/SiderealLab.git
 cd SiderealLab
 pip install -r requirements.txt
+```
 
 ## Usage
 After installation, open the Jupyter Notebook and follow the instructions inside to explore the toolkit’s functionalities.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
