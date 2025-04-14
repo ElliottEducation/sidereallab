@@ -33,3 +33,7 @@ After installation, open the Jupyter Notebook and follow the instructions inside
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+Summary:
+Standard Edition introduces the core methods of observing and calculating Earth's rotational speed based on basic observational techniques and manual calculations.
+
+Pro Edition enhances this experience with automatic calculations, global visualizations, and real-time feedback, providing users with a deeper and more interactive learning experience.
