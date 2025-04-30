@@ -1,4 +1,4 @@
-![SiderealLab Cover](img/basic_cover.png)
+![SiderealLab Cover](img/cover.png)
 
 
 # SiderealLab
