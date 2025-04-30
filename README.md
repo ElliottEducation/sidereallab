@@ -1,3 +1,6 @@
+![SiderealLab Cover](img/basic_cover.png)
+
+
 # SiderealLab
 
 ## About this project
