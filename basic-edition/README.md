@@ -1,3 +1,5 @@
+![SiderealLab Cover](img/cover.png)
+
 # Experiment Purpose:
 
 The purpose of this basic edition experiment is to understand and calculate the Earth's rotational speed at a given location by observing the time difference of a specific star appearing at the same celestial position over consecutive nights. The main goal is to help students or astronomy enthusiasts grasp the methods used to calculate Earth's rotational speed, especially how observational data can be applied to real-world calculations.
