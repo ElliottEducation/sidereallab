@@ -22,4 +22,20 @@ Through these steps, participants will not only learn how to calculate Earth's r
 
 [Buy Standard Edition](https://gumroad.com/l/standard-edition)
 
+---
+
+## 🔭 Coming Soon: SiderealLab Pro
+
+We're currently developing a **Pro edition** of this tool with enhanced features:
+
+- 🌐 Graphical Interface (GUI with real-time visualization)
+- 📈 Latitude vs. Speed Chart
+- 📤 PDF & Image Export of Results
+- 📱 iOS & MATLAB App Versions
+- 📡 Automatic Sidereal Period Calculation from Star Observation
+
+Want early access or product updates?  
+Follow @elliott_astro or visit [elliott-education.com](https://www.elliott-education.com)
+
+Stay curious 🚀
 
